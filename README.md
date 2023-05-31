@@ -1,4 +1,7 @@
 # iso_backup
-iso
+iso linux files 
 
-pending ip
+all other algos pending ip
+
+
+
